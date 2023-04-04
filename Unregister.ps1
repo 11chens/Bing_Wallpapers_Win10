@@ -1,0 +1,1 @@
+Unregister-ScheduledTask Wallpaper \Wallpaper\
