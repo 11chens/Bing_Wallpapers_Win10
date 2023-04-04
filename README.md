@@ -1,0 +1,2 @@
+# Bing_Wallpapers_Win10
+只需一行命令，实现每日自动更换BingWallpapers做为桌面壁纸。
